@@ -1,0 +1,8 @@
+/*
+Changes mobile menu toggle color on divi theme
+Found at https://divibooster.com/changing-the-divi-mobile-header-menu-button/
+*/
+
+span.mobile_menu_bar:before {
+    color: red !important;
+}
